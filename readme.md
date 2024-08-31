@@ -1,4 +1,6 @@
 
+![General process](./datalake.png "General process")
+
 # RECORD LAYOUT
 
 Below are fields in the order that they appear on the records:
